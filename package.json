@@ -1,0 +1,21 @@
+{
+  "name": "myhouse-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable-node": "^0.1.20",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "netlify": "^10.1.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^8.4.2"
+  }
+}
